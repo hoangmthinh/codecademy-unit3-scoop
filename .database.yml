@@ -1,0 +1,18 @@
+users:
+  thinh:
+    username: thinh
+    articleIds:
+      - 1
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: test1
+    url: test1.com
+    username: thinh
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+comments: {}
+nextArticleId: 2
+nextCommentId: 1
